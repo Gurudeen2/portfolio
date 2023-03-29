@@ -1,6 +1,7 @@
 .resume {
   text-decoration: none;
-  font-size: medium;
+  font-size: large;
+  color: white;
 }
 
 .resume:hover::after .resume:active::after {
