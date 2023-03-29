@@ -1,21 +1,21 @@
 "use strict";
 const projects = {
   studio: {
-    name: "LogBook",
-    about:
-      "Logbook for sigining and signing out,store the old and new member, with admin panel to view registered and log history",
+    name: "Portofolio",
+    about: "My Portfolio",
     status: "developed",
     img: "background",
-    link: "https://mcanlogbuk.netlify.app/",
+    link: "https://gurudeen2.github.io/portfolio/",
     github: "https://github.io/gurudeen2",
   },
 
   natours: {
     name: "Natours",
-    about: "A small projects to learn the fundamental of sass",
-    status: "finished",
-    img: "natours",
-    link: "https://github.io/gurudeen2",
+    about:
+      "Logbook for sigining and signing out,store the old and new member, with admin panel to view registered and log history",
+    status: "developed",
+    img: "background",
+    link: "https://mcanlogbuk.netlify.app/",
     github: "https://github.io/gurudeen2",
   },
 
