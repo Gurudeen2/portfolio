@@ -1,0 +1,10 @@
+.resume {
+  text-decoration: none;
+  font-size: medium;
+}
+
+.resume:hover::after .resume:active::after {
+  color: white;
+  background: black;
+  border-bottom: 1px solid red;
+}
